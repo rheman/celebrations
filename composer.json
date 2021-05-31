@@ -1,0 +1,22 @@
+{
+    "name": "pessek/celebrations",
+    "description": "Let users enter and view celebrations like birthdays and wedding days.",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin"
+    ],
+    "license": "proprietary",
+    "authors": [
+        {
+		"name": "Hermand PESSEK",
+		"email": "rhemandaddy@gmail.com"
+        }
+    ],
+    "extra": {
+		"installer-name": "celebrations"
+    },
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
